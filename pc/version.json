@@ -1,9 +1,9 @@
 {
- "version": "1.22.18",
- "fdd": "detour-fdd-1.22.18.zip",
- "single": "detour-single-1.22.18.zip",
+ "version": "1.22.19",
+ "fdd": "detour-fdd-1.22.19.zip",
+ "single": "detour-single-1.22.19.zip",
  "sha256": {
-  "fdd": "5ccf7a3ace34f0070cf96878846253cad61d85e31f8c65f702bfb0108b60f63a",
-  "single": "de4a67cc9193f0bb8360b2ee79de0df6e687b782c2182a0704e58a49512f4e38"
+  "fdd": "d9db2cd128d7b932a50cfe48181c716858e73399bca9b6cc4836cbf1bebe00b9",
+  "single": "257448c679bac20f0ef9faf131ad0f0d4a2202afc7ef9b70c3f0e40e7a2d70b4"
  }
 }
